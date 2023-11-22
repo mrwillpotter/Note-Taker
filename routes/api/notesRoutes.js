@@ -9,7 +9,7 @@ router.get('/', (req, res) => {
             console.log(err);
         } else {
             res.json(JSON.parse(data));
-        }
+        };
     });
 });
 
@@ -21,12 +21,11 @@ router.get('/:id', (req, res) => {
             res.json(JSON.parse(data[i]));
         } else {
             console.log(err);
-        }
+        };
     });
 });
 
 //Handles the deleting of a saved note by the delete button in the HTML
-//However, the page requires reloading
 router.delete('/:id', (req, res) => {
     fs.readFile('./db/db.json', 'utf8', (err, data) => {
         if (err) {
@@ -46,9 +45,7 @@ router.delete('/:id', (req, res) => {
 });
 
 //Handles the adding of a new note by the save button in the HTML
-//However, the page requires reloading
 router.post('/', (req, res) => {
-
     fs.readFile('./db/db.json', 'utf8', (err, data) => {
         if (err) {
             console.log(err);
@@ -66,14 +63,9 @@ router.post('/', (req, res) => {
                     if (err) { return console.log(err) }
                     res.status(200).end()
                 });
-        }
+        };
     });
-
-
 });
-
-
-
 
 //Export the router
 module.exports = router
