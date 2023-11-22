@@ -28,15 +28,15 @@ Once the application is running, access it through your web browser using the sp
 
 - **Homepage**: Click on the "Get Started" button to navigate to the notes page.
 
-<p align="center"><img width="378" alt="Screenshot 2023-11-22 at 12 11 43" src="https://github.com/mrwillpotter/Note-Taker/assets/141876794/341dd484-6760-43e8-bf3b-a4e78c304d25"></p>
+<p align="center"><img width="753" alt="Screenshot 2023-11-22 at 12 11 43" src="https://github.com/mrwillpotter/Note-Taker/assets/141876794/341dd484-6760-43e8-bf3b-a4e78c304d25"></p>
 
 - **Create a Note**: Click on the "New Note" button to create a new note.
 
-<p align="center"><img width="378" alt="Screenshot 2023-11-22 at 12 12 09" src="https://github.com/mrwillpotter/Note-Taker/assets/141876794/33d1be83-a1b2-4ebf-8ba0-69f2586225c8"></p>
+<p align="center"><img width="753" alt="Screenshot 2023-11-22 at 12 12 09" src="https://github.com/mrwillpotter/Note-Taker/assets/141876794/33d1be83-a1b2-4ebf-8ba0-69f2586225c8"></p>
 
 - **Save New Note**: Click on the "Save Note" button to save your new note or on the "Clear Form" button to start again.
 
-  <p align="center"><img width="378" alt="Screenshot 2023-11-22 at 12 12 52" src="https://github.com/mrwillpotter/Note-Taker/assets/141876794/7bcd3d81-4cdd-45f7-9a91-1cec97c0c72a"></p>
+<p align="center"><img width="753" alt="Screenshot 2023-11-22 at 12 12 52" src="https://github.com/mrwillpotter/Note-Taker/assets/141876794/7bcd3d81-4cdd-45f7-9a91-1cec97c0c72a"></p>
 
 
 - **View Notes**: Existing notes are displayed on the left-hand side. Click on a note to view its contents.
